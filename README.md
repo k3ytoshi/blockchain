@@ -1,4 +1,4 @@
 # blockchain
 
 backend and frontend blockchain
-built off the bitcoin protol 
+built off the bitcoin protocol
